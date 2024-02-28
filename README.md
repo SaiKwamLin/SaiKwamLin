@@ -8,9 +8,9 @@ Dedicated and passionate aspiring Security Analyst with commitment to safeguardi
 <!--Projects-->
 <h2>Projects</h2>
 
-* [Azure-based SOC Lab: Honeynet](https://github.com/joshmadakor1/Algorithms-Practice)
-* [Home SOC Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-* [Behavioural Cybersecurity Project - Phishing Campaign](https://github.com/joshmadakor1/Algorithms-Practice)
+* [Azure-based SOC Lab: Honeynet](https://github.com/SaiKwamLin/Honeynet)
+* Home SOC Lab <b>(To be updated)</b>
+* Behavioural Cybersecurity Project - Phishing Campaign <b>(To be updated)</b>
 
 <!--Socials-->
 <h2>Connect with me:</h2>
